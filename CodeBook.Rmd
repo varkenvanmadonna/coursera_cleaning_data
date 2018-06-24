@@ -1,3 +1,8 @@
+# How to use this file
+* this file is an Rmd file, which means that in order to get full information, it must be run in the environment you are running the Run_analysis.R script in.  
+* Just load the file in R and run it and it will provide you with the necessary information
+
+
 # Average_data.csv
 
 * Average_data.csv contains averages of a whole range of measures made for a set of subjects and their activities
