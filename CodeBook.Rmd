@@ -1,0 +1,26 @@
+# Average_data.csv
+
+* Average_data.csv contains averages of a whole range of measures made for a set of subjects and their activities
+
+
+Here is the summary : 
+
+```{r echo=FALSE}
+summary(average_data)
+```
+
+# Description of activities
+
+* The activity description contains a description of the activities the subjects have undertaken as a basis of the recording of the data. See below for the possible values
+
+```{r echo=FALSE}
+levels(as.factor(average_data$activitydescription))
+```
+
+# Subjects are th people the data was gathered on
+
+* As you can see below, there are a limited number of them
+
+```{r echo=FALSE}
+levels(as.factor(average_data$subject))
+```
