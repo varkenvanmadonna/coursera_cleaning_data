@@ -8,10 +8,10 @@ Basically the request was to create a single file that provides averages of each
 
 Data contains a number of different files that need to be merged
 Test data and training data : data set is split between test and training data. These need to be merged
-1.Features : these are basically the column names that need to be apply to the data set
-1.Labels : Labels contain numbers which refer to activities
-1.Activity : contains the description of teh activity labels
-1.Subject : contains a list of subjects on which the test have been performed ( 30 subjects in total)
+* Features : these are basically the column names that need to be apply to the data set
+* Labels : Labels contain numbers which refer to activities
+* Activity : contains the description of teh activity labels
+* Subject : contains a list of subjects on which the test have been performed ( 30 subjects in total)
 
 ## outcome
 The outcome of the exercise shows the mean of all measures broken down by activity and by subject
