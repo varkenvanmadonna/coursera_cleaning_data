@@ -29,7 +29,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 ## Content of this repo
 
-# first of all, the repo contains a script called "Script_assignment_getting_clean_data" 
+# first of all, the repo contains a script called "Run_analysis.R" 
 If you open the script you will find that this script takes the files described above and performs a number of operations on it
 * It helps you download the necessary files if you don't have them already
 * It loads all relevant files into R
