@@ -45,7 +45,8 @@ If you open the script you will find that this script takes the files described 
 # A Codebook describing the content of "average_data.csv" 
 
 * the codebook provides meta-information about the data attributes in the document
-* The name of the codebook is CodeBook.md
+* The name of the codebook is CodeBook.Rmd
+* This codebook is dynamic and will reflect the current layout of the average_data.csv file ( or at least the code behind it)
 
 
 
